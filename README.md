@@ -1,7 +1,7 @@
 # Messaging-Service-Prototype
 
 
-User Authentication using Email and Password
+User Authentication using Email and Password\n
 Google Sign In
 Create group chats
 Video call with screenshare and raise hand
